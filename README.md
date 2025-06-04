@@ -9,7 +9,7 @@ This project is a **Student Course Management System** designed to manage studen
 - 🗄️ The database was built using **MySQL Workbench** and contains the following main tables:
   - `Students`
   - `Courses`
-  - `Enrollments` (student-course registrations)
+  - `student-course` (student-course registrations)
   - `Sections`
   - `Attendance`
 
